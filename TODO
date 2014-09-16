@@ -1,4 +1,5 @@
-intellij-keymap
+mouseless-desktop
+    - intellij-keymap
 
 java-memory-model
     - GCs
