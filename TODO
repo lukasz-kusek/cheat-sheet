@@ -15,6 +15,7 @@ object-oriented-design
     - coupling, cohesion
     - Liskov principle
     - SOLID
+    - GRASP
     - DRY
     - Law of Demeter
     - Feature Envy
