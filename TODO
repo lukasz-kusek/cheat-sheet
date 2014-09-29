@@ -1,4 +1,7 @@
 mouseless-desktop
+    - i3
+    - vimperator
+    - muttator
     - intellij-keymap
 
 java-memory-model
