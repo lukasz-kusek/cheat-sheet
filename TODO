@@ -3,6 +3,9 @@ mouseless-desktop
     - vimperator
     - muttator
     - intellij-keymap
+    
+linux
+    - sed, awk, grep, lsof, etc.
 
 java-memory-model
     - GCs
