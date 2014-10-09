@@ -1,68 +1,74 @@
-mouseless-desktop
-    - i3
-    - vimperator
-    - muttator
-    - intellij-keymap
+= Cheat sheet
+
+Essentials of some programming related topics. 
+
+== TODO
+
+=== mouseless-desktop
+* i3
+* vimperator / Uzbl
+* muttator
+* intellij-keymap
     
-linux
-    - sed, awk, grep, lsof, etc.
+=== linux
+* sed, awk, grep, lsof, iostat etc.
 
-java-memory-model
-    - GCs
-    - volotalie
-    - memory barriers
-    - weak, soft, phantom references
+=== java-memory-model
+* GCs
+* volotalie
+* memory barriers
+* weak, soft, phantom references
 
-design-patterns
+=== design-patterns
 
-object-oriented-design
-    - composition vs aggregation
-    - composition vs inheritance
-    - coupling, cohesion
-    - Liskov principle
-    - SOLID
-    - GRASP
-    - DRY
-    - Law of Demeter
-    - Feature Envy
-    - CQRS
-    - Principle of Least Astonishment/Surprise
+=== object-oriented-design
+* composition vs aggregation
+* composition vs inheritance
+* coupling, cohesion
+* Liskov principle
+* SOLID
+* GRASP
+* DRY
+* Law of Demeter
+* Feature Envy
+* CQRS
+* Principle of Least Astonishment/Surprise
 
-concurrency
-    - deadlock
-    - livelock
-    - starvation
-    - wait() vs sleep()
-    - explicit vs intrinsic locks
-    - atomicity
-    - thread vs process
-    - green thread vs native thread 
-    - thread-scheduling algorithm / thread-scheduler 
-    - Executor framework (ExecutorService, Executors)
-    - fork-join pool
-    - Phaser
+=== concurrency
+* deadlock
+* livelock
+* starvation
+* wait() vs sleep()
+* explicit vs intrinsic locks
+* atomicity
+* thread vs process
+* green thread vs native thread 
+* thread-scheduling algorithm / thread-scheduler 
+* Executor framework (ExecutorService, Executors)
+* fork-join pool
+* Phaser
 
-core
-    - substring (Java 6 vs 7)
-    - Java 5/6/7/8 new features
-    - static, dynamic, duck typing
-    - suppressed exception
+=== core
+* substring (Java 6 vs 7)
+* Java 5/6/7/8 new features
+* static, dynamic, duck typing
+* suppressed exception
 
-data structures
-    - heap, stack, queue, tree (binary, self balanced - red-black, AVL, splay; prefix, suffix), graph
-    - data structures in Java
+=== data structures
+* heap, stack, queue, tree (binary, self balanced - red-black, AVL, splay; prefix, suffix), graph
+* data structures in Java
 
-algorithms on basic data structures
-    - sorting (linear-time sorting - count sort)
-    - traverse graph
-    - search in binary tree
+=== algorithms on basic data structures
+* sorting (linear-time sorting - count sort)
+* traverse graph
+* search in binary tree
 
-basics
-    - computing square roots
-    - dynamic programming
-    - NP-complete algorithms
-    - map/reduce
-    - complexity, big O notation
+=== basics
+* computing square roots
+* dynamic programming
+* NP-complete algorithms
+* map/reduce
+* complexity, big O notation
 
-nio
-    - nio2
+=== nio
+* nio2
