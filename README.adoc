@@ -9,6 +9,7 @@ Essentials of some programming related topics.
 * vimperator / Uzbl
 * muttator
 * intellij-keymap
+* bash http://www.catonmat.net/blog/bash-one-liners-explained-part-five/
     
 === linux
 * sed, awk, grep, lsof, iostat etc.
