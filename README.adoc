@@ -13,6 +13,9 @@ Essentials of some programming related topics.
     
 === linux
 * sed, awk, grep, lsof, iostat etc.
+* http://www.catonmat.net/blog/unix-utilities-pipe-viewer/
+* https://github.com/Xfennec/cv
+* https://github.com/milkbikis/powerline-shell
 
 === java-memory-model
 * GCs
