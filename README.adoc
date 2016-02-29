@@ -4,18 +4,32 @@ Essentials of some programming related topics.
 
 == TODO
 
+=== Conferences
+* Devoxx UK 2015 https://www.parleys.com/channel/devoxx-uk-2015
+* ScalaWorld 2015 https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg/videos
+
 === mouseless-desktop
 * i3
 * vimperator / Uzbl
 * muttator
 * intellij-keymap
 * bash http://www.catonmat.net/blog/bash-one-liners-explained-part-five/
+* zsh http://ohmyz.sh/
     
 === linux
 * sed, awk, grep, lsof, iostat etc.
+* http://www.brendangregg.com/Perf/linux_observability_tools.png
 * http://www.catonmat.net/blog/unix-utilities-pipe-viewer/
 * https://github.com/Xfennec/cv
 * https://github.com/milkbikis/powerline-shell
+
+=== category-theory
+* http://wazniak.mimuw.edu.pl/index.php?title=Teoria_kategorii_dla_informatyk%C3%B3w
+* http://patryshev.com/monad/m-intro.html
+
+=== Scala
+* http://twitter.github.io/effectivescala/
+* Dotty https://www.youtube.com/watch?v=aftdOFuVU1o
 
 === java-memory-model
 * GCs
@@ -76,3 +90,11 @@ Essentials of some programming related topics.
 
 === nio
 * nio2
+
+=== other
+* Implementing a JIT Compiled Language with Haskell and LLVM http://www.stephendiehl.com/llvm/
+* http://kernowsoul.com/blog/2012/06/20/4-ways-to-avoid-merge-commits-in-git/
+* Learn You a Haskell for Great Good! http://learnyouahaskell.com/chapters
+* Papers We Love http://paperswelove.org/
+* More papers http://www.meetup.com/sc-krk/
+* JIT http://www.slideshare.net/CharlesNutter/javaone-2012-jvm-jit-for-dummies https://www.youtube.com/watch?v=FnDHp3Qya6s
