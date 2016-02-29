@@ -7,6 +7,7 @@ Essentials of some programming related topics.
 === Conferences
 * Devoxx UK 2015 https://www.parleys.com/channel/devoxx-uk-2015
 * ScalaWorld 2015 https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg/videos
+* ScalaExchange 2015 https://skillsmatter.com/conferences/6862-scala-exchange-2015#skillscasts
 
 === mouseless-desktop
 * i3
