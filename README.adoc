@@ -37,6 +37,10 @@ Essentials of some programming related topics.
 * memory barriers
 * weak, soft, phantom references
 
+* http://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html
+* http://gee.cs.oswego.edu/dl/cpj/jmm.html
+* http://www.cs.umd.edu/~pugh/java/memoryModel/
+
 === design-patterns
 
 === object-oriented-design
