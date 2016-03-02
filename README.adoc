@@ -41,6 +41,9 @@ Essentials of some programming related topics.
 * http://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html
 * http://gee.cs.oswego.edu/dl/cpj/jmm.html
 * http://www.cs.umd.edu/~pugh/java/memoryModel/
+* http://preshing.com/20120710/memory-barriers-are-like-source-control-operations/
+* http://www.rdrop.com/users/paulmck/scalability/paper/whymb.2010.07.23a.pdf
+* https://www.kernel.org/doc/Documentation/memory-barriers.txt
 
 === design-patterns
 
@@ -70,6 +73,7 @@ Essentials of some programming related topics.
 * Executor framework (ExecutorService, Executors)
 * fork-join pool
 * Phaser
+* http://concurrencykit.org/
 
 === core
 * substring (Java 6 vs 7)
