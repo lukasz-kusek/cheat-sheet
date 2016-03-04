@@ -44,6 +44,7 @@ Essentials of some programming related topics.
 * http://preshing.com/20120710/memory-barriers-are-like-source-control-operations/
 * http://www.rdrop.com/users/paulmck/scalability/paper/whymb.2010.07.23a.pdf
 * https://www.kernel.org/doc/Documentation/memory-barriers.txt
+* https://www.youtube.com/watch?v=WTVooKLLVT8
 
 === design-patterns
 
