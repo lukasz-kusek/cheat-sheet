@@ -29,6 +29,7 @@ Essentials of some programming related topics.
 * http://patryshev.com/monad/m-intro.html
 
 === Scala
+* http://twitter.github.io/scala_school/
 * http://twitter.github.io/effectivescala/
 * Dotty https://www.youtube.com/watch?v=aftdOFuVU1o
 
