@@ -9,6 +9,10 @@ Essentials of some programming related topics.
 * ScalaWorld 2015 https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg/videos
 * ScalaExchange 2015 https://skillsmatter.com/conferences/6862-scala-exchange-2015#skillscasts
 
+=== Blogs
+* http://psy-lob-saw.blogspot.co.uk/
+* http://mechanical-sympathy.blogspot.co.uk/
+
 === mouseless-desktop
 * i3
 * vimperator / Uzbl
@@ -28,6 +32,9 @@ Essentials of some programming related topics.
 * http://wazniak.mimuw.edu.pl/index.php?title=Teoria_kategorii_dla_informatyk%C3%B3w
 * http://patryshev.com/monad/m-intro.html
 
+=== queueing-theory
+* http://www.win.tue.nl/~iadan/queueing.pdf
+
 === Scala
 * http://twitter.github.io/scala_school/
 * http://twitter.github.io/effectivescala/
@@ -38,6 +45,8 @@ Essentials of some programming related topics.
 * volotalie
 * memory barriers
 * weak, soft, phantom references
+* false sharing - http://mechanical-sympathy.blogspot.co.uk/2011/07/false-sharing.html
+* java object memory layout - http://psy-lob-saw.blogspot.co.uk/2013/05/know-thy-java-object-memory-layout.html
 
 * http://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html
 * http://gee.cs.oswego.edu/dl/cpj/jmm.html
