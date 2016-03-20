@@ -53,6 +53,7 @@ Essentials of some programming related topics.
 * http://www.cs.umd.edu/~pugh/java/memoryModel/
 * http://preshing.com/20120710/memory-barriers-are-like-source-control-operations/
 * http://www.rdrop.com/users/paulmck/scalability/paper/whymb.2010.07.23a.pdf
+* http://irl.cs.ucla.edu/~yingdi/web/paperreading/whymb.2010.06.07c.pdf
 * https://www.kernel.org/doc/Documentation/memory-barriers.txt
 * https://www.youtube.com/watch?v=WTVooKLLVT8
 
