@@ -96,6 +96,7 @@ Essentials of some programming related topics.
 === data structures
 * heap, stack, queue, tree (binary, self balanced - red-black, AVL, splay; prefix, suffix), graph
 * data structures in Java
+* http://bigocheatsheet.com/
 
 === algorithms on basic data structures
 * sorting (linear-time sorting - count sort)
