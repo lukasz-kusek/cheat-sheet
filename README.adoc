@@ -8,6 +8,7 @@ Essentials of some programming related topics.
 * Devoxx UK 2015 https://www.parleys.com/channel/devoxx-uk-2015
 * ScalaWorld 2015 https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg/videos
 * ScalaExchange 2015 https://skillsmatter.com/conferences/6862-scala-exchange-2015#skillscasts
+* ScalarConf 2016 https://www.youtube.com/watch?v=dY2Rru5f-O4&list=PL8NC5lCgGs6Nj6Y2Tg5kNNFepfvLTLPL_
 
 === Blogs
 * http://psy-lob-saw.blogspot.co.uk/
