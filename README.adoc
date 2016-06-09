@@ -115,6 +115,7 @@ Essentials of some programming related topics.
 * nio2
 
 === other
+* Unsafe http://mishadoff.com/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/
 * Implementing a JIT Compiled Language with Haskell and LLVM http://www.stephendiehl.com/llvm/
 * http://kernowsoul.com/blog/2012/06/20/4-ways-to-avoid-merge-commits-in-git/
 * Learn You a Haskell for Great Good! http://learnyouahaskell.com/chapters
