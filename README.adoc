@@ -9,6 +9,7 @@ Essentials of some programming related topics.
 * ScalaWorld 2015 https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg/videos
 * ScalaExchange 2015 https://skillsmatter.com/conferences/6862-scala-exchange-2015#skillscasts
 * ScalarConf 2016 https://www.youtube.com/watch?v=dY2Rru5f-O4&list=PL8NC5lCgGs6Nj6Y2Tg5kNNFepfvLTLPL_
+* Scala Days Conferences https://www.youtube.com/playlist?list=PLLMLOC3WM2r5gdnpoZSTuM9Fh2QN_mABA
 
 === Blogs
 * http://psy-lob-saw.blogspot.co.uk/
