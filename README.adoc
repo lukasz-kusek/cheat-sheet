@@ -123,3 +123,4 @@ Essentials of some programming related topics.
 * Papers We Love http://paperswelove.org/
 * More papers http://www.meetup.com/sc-krk/
 * JIT http://www.slideshare.net/CharlesNutter/javaone-2012-jvm-jit-for-dummies https://www.youtube.com/watch?v=FnDHp3Qya6s
+* Java libraries https://github.com/akullpp/awesome-java
