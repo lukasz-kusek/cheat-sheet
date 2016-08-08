@@ -125,3 +125,4 @@ Essentials of some programming related topics.
 * JIT http://www.slideshare.net/CharlesNutter/javaone-2012-jvm-jit-for-dummies https://www.youtube.com/watch?v=FnDHp3Qya6s
 * Java libraries https://github.com/akullpp/awesome-java
 * https://shipilev.net/
+* Learning Rust https://github.com/ctjhoa/rust-learning
